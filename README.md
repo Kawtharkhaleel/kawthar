@@ -3,6 +3,7 @@ This is my  repository
 (GBC Comp1238 Data manegment) Number row characters 
  +_)(*&^%$#@!~
  - Ahmad , Sami, Deema, Farees, \#\#\Gafar## , Hanan,Jamal, Kameel, Zaid,XoXo, Camal, Van, Bassel, Naheed<Muna,Quit, Waseem, Rami, Tareek, Yamin, \#\#\ U##, Iad, Ommer, Pepsi
+ another,  long - lines
 - Links
   - Youtube Music (https://music.youtube.com/)
 * Instagram
