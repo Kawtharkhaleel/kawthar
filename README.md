@@ -1,4 +1,6 @@
 # first repo
+---
+---
 This is my  repository
 (GBC Comp1238 Data manegment) Number row characters 
  +_)(*&^%$#@!~
