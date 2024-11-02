@@ -1,3 +1,6 @@
+
+
+
 # first repo
 ---
 ---
@@ -16,5 +19,37 @@ This is my  repository
 1. First 
    -  list item 1
      -  list item2
+[
+  {
+    "name": "Leboron James",
+    "sport": "Basketball",
+    "Team Name": "Los Angeloses",
+    "Position": "Forward",
+    "age": "38"
+  },
+  {
+    "name": "Lionel Messi",
+    "sport": "Soccer",
+    "Team Name": "Inter Miami",
+    "Position": "Forward",
+    "age": "36"
+  },
+  {
+    "name": "Lionel Messi",
+    "sport": "Soccer",
+    "Team Name": "Inter Miami",
+    "Position": "Forward",
+    "age": "36" 
+  },
+  {
+    "name": "Tom Brady",
+    "sport": "Football",
+    "Team Name": "Buccaneers",
+    "Position": "Quarterback",
+    "age": "46" 
+  }
+  
+]  
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
